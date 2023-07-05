@@ -1,0 +1,15 @@
+ [
+    {
+    "email": "yennefer.witcher@alura.com.br",
+    "fullName": "Yennefer Vengerberg",
+    "userName": "yenneferveng",
+    "password": "witcher"
+    },
+    {
+    "email": "geralt.witcher@alura.com.br",
+    "fullName": "Geralt Rivia",
+    "userName": "geraldinho",
+    "password": "witcher123"
+
+    }
+]

@@ -1,0 +1,15 @@
+{
+  "name": "primeiro-projeto",
+  "version": "1.0.0",
+  "description": "Primeiro projeto com cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Michelle Magaton",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.16.0",
+    "mochawesome": "^7.1.3"
+  }
+}
